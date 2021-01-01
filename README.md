@@ -5,6 +5,7 @@ Autism is a development disorder that impairs the individual’s ability to comm
 
 
 
+
 **References:**
 
 [1] Autism Alert Organization, “SCREENING AUTISM QCHAT-10 Question Autism Survey for Toddlers” http://www.autismalert.org/uploads/PDF/SCREENING--AUTISM--QCHAT-10%20Question%20Autism%20Survey%20for%20Toddlers.pdf
